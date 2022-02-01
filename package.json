@@ -1,7 +1,7 @@
 {
   "name": "three-demo",
   "version": "0.0.0",
-  "main": "main.js",
+  "main": "dist/main.js",
   "scripts": {
     "deploy": "gh-pages -d dist",
     "dev": "vite",
