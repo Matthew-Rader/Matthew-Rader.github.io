@@ -9,7 +9,7 @@
     "serve": "vite preview"
   },
   "devDependencies": {
-    "vite": "^2.3.0"
+    "vite": "^2.9.16"
   },
   "dependencies": {
     "gh-pages": "^3.2.3",
